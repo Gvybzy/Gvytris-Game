@@ -2,8 +2,6 @@
 
 A neon-themed Tetris game built with Python and Pygame, created as a learning project.
 
-![GVYTRIS](GVYTRIS-LOGO.ico)
-
 ## 📖 Description
 
 GVYTRIS is a modern take on the classic Tetris game featuring a cyberpunk-inspired aesthetic with neon colors and smooth gameplay. This project was built to learn game development fundamentals, object-oriented programming, and the Pygame library.
