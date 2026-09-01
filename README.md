@@ -60,7 +60,7 @@ Arrange falling tetromino pieces to create complete horizontal lines. Completed 
 
 ### Download Executable (No Python Needed)
 
-1. Go to [Releases](https://github.com/Gvybzy/gvytris/releases)
+1. Go to [Releases](https://github.com/Gvybzy/Gvytris-Game/releases)
 2. Download `Gvytris-v1.0-Windows.zip`
 3. Extract the ZIP file
 4. Double-click `Gvytris.exe`
