@@ -1,12 +1,12 @@
-# GVYTRIS 🎮
+# GVYTRIS
 
 A neon-themed Tetris game built with Python and Pygame, created as a learning project.
 
-## 📖 Description
+## Description
 
 GVYTRIS is a modern take on the classic Tetris game featuring a cyberpunk-inspired aesthetic with neon colors and smooth gameplay. This project was built to learn game development fundamentals, object-oriented programming, and the Pygame library.
 
-## ✨ Features
+## Features
 
 - **7 Classic Tetrominoes**: I, O, T, S, Z, J, L pieces
 - **Next Piece Preview**: See what's coming next
@@ -20,7 +20,7 @@ GVYTRIS is a modern take on the classic Tetris game featuring a cyberpunk-inspir
 - **7-Bag Randomizer**: Fair piece distribution (no long droughts)
 - **Game Over Detection**: Proper game over screen with stats
 
-## 🎮 How to Play
+## How to Play
 
 ### Controls
 
@@ -56,7 +56,7 @@ Arrange falling tetromino pieces to create complete horizontal lines. Completed 
 - Level 1: 1000ms per fall
 - Each level: -100ms (minimum 100ms)
 
-## 🚀 Installation
+## Installation
 
 ### Download Executable (No Python Needed)
 
